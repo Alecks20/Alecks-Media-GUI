@@ -45,5 +45,14 @@ body {
     margin: 5px auto;
     text-align: center; 
     color: white;
-    font-size: 15px;
+    font-size: 13px;
+}
+
+.footer {
+    width: 500px;
+    margin: 30px auto;
+    text-align: center; 
+    color: white;
+    font-size: 14px;
+    bottom: 0;
 }
